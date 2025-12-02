@@ -1,0 +1,4 @@
+# langchain.yaml
+name: blog-agent
+description: Blog Generation App using LangGraph + Groq
+entrypoint: app:app
